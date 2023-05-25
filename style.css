@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.playlist{
+    background: rgb(195,142,34);
+    background: linear-gradient(0deg, rgba(195,142,34,1) 0%, rgba(253,212,45,1) 100%);
+}
+
+.nombre-playlist{
+    display: flex;
+    align-items: flex-end;
+}
+
+.imagen-lista img{
+    width: 280px;
+}
+
+.info-playlist{
+    margin-left: 40px;
+}
+
+.lista-titulos{
+    margin: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.lista-titulos{
+    font-size: 25px;
+}
+
+.llamala{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    list-style: none;
+}
+
+.img {
+    margin: 5px;
+    width: 217px;
+    height: 98px;
+}
+
+.nombre-cancion {
+    font-size: 14px;
+    margin: auto;
+    width: 87px;
+}
+
+    .album {
+        font-size: 14px;
+        margin: auto;
+        width: 89px;
+}
+
+   
+.agregado {
+    font-size: 20px;
+    margin-left: 191px;
+}
+
+
+.tiempo {
+    font-size: 20px;
+    margin-left: 250px;
+    width: 195px;
+}
+
+
+
